@@ -1,0 +1,2 @@
+Build path: C:/Users/Artyom/Documents/GitHub/MergeGame/Builds/Build
+Build number: 23
